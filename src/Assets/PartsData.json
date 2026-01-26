@@ -961,7 +961,7 @@
 	{
 		"Name": "EARSHOT",
 		"Kind": "Unit",
-		"Manufacturer": "BALAM",
+		"Manufacturer": "MELINITE",
 		"Description": "Spread Bazooka",
 		"AttackType": "Explosive",
 		"WeaponType": "Semi-Auto",
