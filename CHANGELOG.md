@@ -1,3 +1,6 @@
+## [v1.2.11](https://github.com/matteosal/ac6-advanced-garage/releases/tag/v1.2.11) (Jan 26 2026)
+* Fixed Earshot manufacturer logo
+
 ## [v1.2.10](https://github.com/matteosal/ac6-advanced-garage/releases/tag/v1.2.10) (Oct 16 2025)
 * Fixed modified stats for Aurora missile
 
